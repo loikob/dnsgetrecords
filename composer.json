@@ -1,0 +1,20 @@
+{
+    "name": "bohdan/dnsgetrecord",
+    "description": "A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bohdan Loiko",
+            "email": "test@test.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Bohdan\\Dnsgetrecord\\": "src/",
+            "Bohdan\\Dnsgetrecord\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
